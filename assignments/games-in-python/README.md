@@ -1,10 +1,10 @@
-# 📘 Assignment: Jogo da Forca
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa o clássico jogo de adivinhar palavras usando strings, loops e entrada de dados do usuário em Python. Os alunos aprenderão manipulação de strings, loops, condicionais e seleção aleatória.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar Seleção Aleatória de Palavras
 
